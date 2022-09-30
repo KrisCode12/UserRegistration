@@ -1,0 +1,21 @@
+C:\Users\MyPC\source\repos\FrmRegistration\bin\Debug\FrmRegistration.exe.config
+C:\Users\MyPC\source\repos\FrmRegistration\bin\Debug\FrmRegistration.exe
+C:\Users\MyPC\source\repos\FrmRegistration\bin\Debug\FrmRegistration.pdb
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\FrmRegistration.FrmConfirm.resources
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\FrmRegistration.FrmRegistration.resources
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\FrmRegistration.Properties.Resources.resources
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\FrmRegistration.exe
+C:\Users\MyPC\source\repos\FrmRegistration\obj\Debug\FrmRegistration.pdb
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\bin\Debug\FrmRegistration.exe.config
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\bin\Debug\FrmRegistration.exe
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\bin\Debug\FrmRegistration.pdb
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\Account Registration.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\FrmRegistration.FrmConfirm.resources
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\FrmRegistration.FrmRegistration.resources
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\FrmRegistration.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\FrmRegistration.exe
+C:\Users\ComputerLab4PC1\Desktop\FrmRegistration\obj\Debug\FrmRegistration.pdb
